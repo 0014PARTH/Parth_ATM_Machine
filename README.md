@@ -5,6 +5,6 @@ This is a console-based ATM Machine simulation built using Java. The project all
 
 🛠 Technologies Used
 
-Java (Core Java, OOP concepts)
+-> Java (Core Java, OOP concepts)
 
-Scanner (User Input Handling)
+-> Scanner (User Input Handling)
